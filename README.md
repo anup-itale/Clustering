@@ -1,2 +1,2 @@
-# Clustering
-Clustering of bank accounts based on riskiness
+# clustering
+K modes and K prototypes clustering
